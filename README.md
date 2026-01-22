@@ -3,7 +3,7 @@
 ## Cytometry in R
 Location: Surrey, UK
 
-My Favorite Fluorophore/Metal-Isotope: ¯\_(ツ)_/¯
+My Favorite Fluorophore/Metal-Isotope:   ¯\_(ツ)_/¯
 
 Previous Coding Experience: Absolutely nothing
 
